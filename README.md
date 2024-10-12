@@ -8,6 +8,9 @@
 - 我们新建了 Telegram 群组 [`@unlock_music_chat`] ，欢迎加入！
 - CI 自动构建已经部署，可以在 [UM-Packages] 下载
 
+> **WARNING**
+> 在本站 fork 不会起到备份的作用，只会浪费服务器储存空间。如无必要请勿 fork 该仓库。
+
 [授权协议]: https://git.unlock-music.dev/um/web/src/branch/master/LICENSE
 [unlock-music/cli]: https://git.unlock-music.dev/um/cli
 [`@unlock_music_chat`]: https://t.me/unlock_music_chat
