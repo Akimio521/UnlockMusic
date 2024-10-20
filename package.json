@@ -1,6 +1,6 @@
 {
   "name": "unlock-music",
-  "version": "1.10.7",
+  "version": "1.10.8",
   "ext_build": 0,
   "updateInfo": "修正 joox 在远程获取 API 信息出错时不能正确回退到本地元信息获取的错误。",
   "license": "MIT",
